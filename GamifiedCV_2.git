@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Giacomo Pastore's CV</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js"></script>
+</head>
+<body>
+  <header>
+    <h1>Giacomo Pastore's CV</h1>
+    <nav>
+      <ul>
+        <li><a href="#education">Education</a></li>
+        <li><a href="#work-experience">Work Experience</a></li>
+        <li><a href="#interests-hobbies">Interests & Hobbies</a></li>
+        <li><a href="#language">Language</a></li>
+        <li><a href="#skills-certifications">Skills & Certifications</a></li>
+        <li><a href="#contact-details">Contact Details</a></li>
+        <li><a href="#profile">Profile</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section id="education">
+      <h2>Education</h2>
+      <ul>
+        <li>ESCP Business School | 2018, 2 years | Master’s in Management, Creativity Marketing & Tech | Final GPA: 3.7/4 (top 20%)</li>
+        <li>Universidad Carlos III de Madrid | 2019, 6 months | Master Europeo en Administraciòn y de empresa</li>
+        <li>Università di Roma</li>
+        <li>...</li>
+      </ul>
+    </section>
+    <section id="work-experience">
+      <h2>Work Experience</h2>
+      <ul>
+        <li>TikTok (Bytedance Inc.) | 2021, 1.5 years | Client Solutions Manager, Key Accounts - Milan, Italy</li>
+        <li>Automotive, Energy, Travel, Finance clients (+60 brands) Over-achieved 5/6 2022 sales targets</li>
+        <li>...</li>
+      </ul>
+    </section>
+    <section id="interests-hobbies">
+      <h2>Interests & Hobbies</h2>
+      <ul>
+        <li>Music</li>
+        <li>Sports</li>
+        <li>Cuisine</li>
+      </ul>
+    </section>
+    <section id="language">
+      <h2>Language</h2>
+      <ul>
+        <li>Italian - Native</li>
+        <li>English - Fluent</li>
+        <li>Spanish - Advanced</li>
+      </ul>
+    </section>
+    <section id="skills-certifications">
+      <h2>Skills & Certifications</h2>
+      <ul>
+        <li>TikTok Ads Manager</li>
+        <li>Google Ads and Analytics</li>
+        <li>MS Office Suite (
